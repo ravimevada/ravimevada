@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravimevada
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Google Cloud 
+- 👀 I’m interested in Cloud Computing, Java Programming
+- 🌱 I’m Google Cloud certified engineer
 - 💞️ I’m looking to collaborate on cloud expert
 - 📫 How to reach me ...
 
