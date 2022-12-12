@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ravimevada
-- 👀 I’m interested in Cloud Computing, Java Programming
+- 👀 I’m interested in Python programming , Front End Development.
 - 🌱 I’m Google Cloud certified engineer
-- 💞️ I’m looking to collaborate on cloud expert
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Software engineers
+- 📫 Reach me on INSTAGRAM - ravi.mevada0707
 
 <!---
 ravimevada/ravimevada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
